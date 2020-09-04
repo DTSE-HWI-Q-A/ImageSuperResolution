@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ImageSuperResolution</string>
+
+    <string-array name="url_resources">
+        <item>https://picsum.photos/id/1005/50/100</item>
+        <item>https://picsum.photos/id/1005/60</item>
+        <item>https://picsum.photos/id/1005/60/120</item>
+        <item>https://picsum.photos/id/1005/100</item>
+        <item>https://picsum.photos/id/1005/150</item>
+        <item>https://picsum.photos/id/1005/100/200</item>
+    </string-array>
+</resources>
